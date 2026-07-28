@@ -307,7 +307,7 @@ If the player loses:
     playerLuck increases slightly
 ```
 
-This creates a balancing loop where repeated losses make the game more forgiving, while repeated wins make it more demanding.
+This creates a balancing loop where repeated losses make the game more forgiving,  while repeated wins make it more demanding.
 
 ### DifficultyDirector
 
